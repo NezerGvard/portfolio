@@ -1,5 +1,4 @@
 import json
-from turtle import position
 import requests
 import operator
 # from mess import mess
@@ -40,7 +39,6 @@ class API():
         i = request.json()
         i['roles'].sort(key=operator.itemgetter('position'), reverse=True)
 
-
         for j in i['roles']:
             f = str(hex(j["color"]))[2:-1]
             if f == '':
@@ -79,11 +77,7 @@ class API():
                                 uids.append(member['member']['user']['id'])
                                 if bebrers[-1] == member:
                                     mem.append({'roles': m, 'name_roles': j['name'], 'color': f})
-                                # mem.append({'memb': member, 'position': j['position'], 'color': f })
-                                # uids.append(member['member']['user']['id'])
-                                # pos.append(j['position'])
 
-        # mem = mem.sort(key=operator.itemgetter('position'), reverse = True)
         req.append({"guild": i, "icon": f"https://cdn.discordapp.com/icons/{i['id']}/{i['icon']}.png", "roles": rol})
         return req, mem
 
