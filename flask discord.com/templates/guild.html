@@ -1,0 +1,82 @@
+{% extends 'base.html' %} 
+
+
+{% block title %}
+    {{ g['name'] }}
+{% endblock %}
+
+
+{% block body %}
+<body style="overflow-x: hidden; overflow-y: hidden; background-color: rgb(41, 41, 41);" vlink="white" link="white" alink="white">
+    <div id="guild_f">
+        <div id="c">
+            <div style="background-color: rgb(26, 26, 26); height: 100vh; width: 5%; position: absolute; top: 0; left: 0; border-right: 1px solid rgb(99, 99, 99);">
+            {% for guilds in content %}
+                <div style="margin-top: 10%; position: relative;">
+                    <a href="/guild/{{ guilds['guild']['id'] }}" style="position: relative; margin-left: 12.5%;">
+                        <img src="{{ guilds['icon'] }}" id="ig">
+                    </a>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+    <button id="btn1">
+        <p style="text-align: center;"><</p>
+    </button>
+    <div id="info_guild">
+        <div style="position: relative; margin-left: 1%; margin-top: 1%;">
+            <img src="{{ icon }}">
+            <p><a href="{{ icon }}">icon url</a></p>
+                <p color = #d60f0f >name: {{ g["name"] }} </p>
+                <p>id: {{ g['id'] }}</p>
+                <p>region : {{ g['region'] }} </p>
+                <h2 style="text-align: center;">roles:</h2>
+                {% for i in roles %}
+                    <font style="color: none; text-shadow: 0.1px white;" color = {{ i['color'] }} > {{i['role']['name']}} </font><br>
+                {% endfor %}
+                <h2 style="text-align: center;">bebrers</h2>
+                {% for member in role %}
+                <div>
+                    <p>{{ member['name_roles'] }}</p>
+                    <font color = {{ member['color'] }}>
+                    {% for r in member['roles'] %}
+                        <div style="display: flex;">
+                            <img src="{{ r['member']['avatar']['url'] }}" style="width: 10%; height: 10%; border-radius: 100%;">
+                            <p style="margin-left: 1%; vertical-align: middle;"> {{ r['member']['name'] }} </p>
+                        </div>
+                    {% endfor %}
+                    </font>
+                </div>
+                {% endfor %}
+            
+        </div>
+    </div>
+    <div class="chn">
+        
+        {% for chan in channel %}
+            <div class="list">
+                <a href="/channel/{{ chan['channel']['id'] }}"><p> {{ chan['channel']['name'] }}</p></a>
+            </div>
+        {% endfor %}
+        
+    </div>
+    <script>
+        var btn1 = document.getElementById("btn1")
+        var info_guild = document.getElementById("info_guild")
+        btn1.onclick = function(){
+            if (btn1.style.right <= "0.5%"){
+                info_guild.style.right = "0"
+                btn1.style.right = "30.5%"
+                btn1.style.textAlign = "center"
+            }
+            
+            else{
+                info_guild.style.right = "-200%"
+                btn1.style.right = "0.5%"
+                btn1.style.textAlign = "center"
+            }
+        }
+    </script>
+</body>
+{% endblock %}

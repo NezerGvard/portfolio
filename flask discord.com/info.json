@@ -1,0 +1,1714 @@
+[
+    {
+        "guild": {
+            "id": "814937086150967326",
+            "name": "Винишко",
+            "icon": "9ca06a9fcb4d64d87980085eb161856d",
+            "description": null,
+            "splash": null,
+            "discovery_splash": null,
+            "features": [],
+            "emojis": [
+                {
+                    "name": "Johnny_mmmm",
+                    "roles": [],
+                    "id": "894175545154224169",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "s_dicks",
+                    "roles": [],
+                    "id": "894175586770100224",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartboobs",
+                    "roles": [],
+                    "id": "894175611629760612",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartdick",
+                    "roles": [],
+                    "id": "894175627429707796",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_horny",
+                    "roles": [],
+                    "id": "894175653514059786",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "w_homiekiss",
+                    "roles": [],
+                    "id": "894175689450876960",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "z_PORNHUB",
+                    "roles": [],
+                    "id": "894175834024337408",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "q_kawaiipepe",
+                    "roles": [],
+                    "id": "894175892312584234",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_SIMP",
+                    "roles": [],
+                    "id": "894175970020450335",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_offline",
+                    "roles": [],
+                    "id": "897864231846838304",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_idle",
+                    "roles": [],
+                    "id": "897864232287236126",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_online",
+                    "roles": [],
+                    "id": "897864232320774205",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_busy",
+                    "roles": [],
+                    "id": "897864232413069372",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepeLove",
+                    "roles": [],
+                    "id": "898258149939744839",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepewow",
+                    "roles": [],
+                    "id": "898258150237536318",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "monkaS",
+                    "roles": [],
+                    "id": "898258150241759282",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cross",
+                    "roles": [],
+                    "id": "898258150287876106",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "PepeHappy",
+                    "roles": [],
+                    "id": "898258150296256583",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_high",
+                    "roles": [],
+                    "id": "898258150380163132",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cringe",
+                    "roles": [],
+                    "id": "898258150388531208",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": true,
+                    "available": true
+                }
+            ],
+            "stickers": [],
+            "banner": null,
+            "owner_id": "434577482440507402",
+            "application_id": null,
+            "region": "russia",
+            "afk_channel_id": null,
+            "afk_timeout": 300,
+            "system_channel_id": "814937086632525875",
+            "widget_enabled": true,
+            "widget_channel_id": "814937086632525879",
+            "verification_level": 0,
+            "roles": [
+                {
+                    "id": "814937086150967326",
+                    "name": "@everyone",
+                    "permissions": "1071698660929",
+                    "position": 0,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937185269841981",
+                    "name": "Пидарас-педофил",
+                    "permissions": "8589410303",
+                    "position": 13,
+                    "color": 7419530,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937472718995458",
+                    "name": "Альберт",
+                    "permissions": "6546771521",
+                    "position": 10,
+                    "color": 5254661,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276302041874473",
+                    "name": "Художник",
+                    "permissions": "6546771521",
+                    "position": 11,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276466988122162",
+                    "name": "Маленький пидорас",
+                    "permissions": "6546771529",
+                    "position": 14,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815277377680310364",
+                    "name": "Белый кучерявый крыс",
+                    "permissions": "8589410303",
+                    "position": 12,
+                    "color": 9936031,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "816049094518112266", 
+                    "name": "Страшная озабоченная обезьяна",
+                    "permissions": "6546771521",
+                    "position": 15,
+                    "color": 10038562,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840676850292490250",
+                    "name": "Кадырова ван лов",
+                    "permissions": "6546771529",
+                    "position": 9,
+                    "color": 15007999,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677120577241118",
+                    "name": "нова роль",
+                    "permissions": "6546771521",
+                    "position": 6,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677774095286343",
+                    "name": "Hydra",
+                    "permissions": "37088600",
+                    "position": 5,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "547905866255433758"
+                    }
+                },
+                {
+                    "id": "867098815042814032",
+                    "name": "VK Music Bot",
+                    "permissions": "8",
+                    "position": 4,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "721772274830540833"
+                    }
+                },
+                {
+                    "id": "893566234426224641",
+                    "name": "Щапин",
+                    "permissions": "1090921168895",
+                    "position": 3,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "903301810490585131",
+                    "name": "Щапин",
+                    "permissions": "8",
+                    "position": 2,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "893515190778363945"
+                    }
+                },
+                {
+                    "id": "906298018142236742",
+                    "name": "КАЙ",
+                    "permissions": "1071698660937",
+                    "position": 8,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "913668433550389350",
+                    "name": "Denchik Bot",
+                    "permissions": "8",
+                    "position": 1,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "913667575282552873"
+                    }
+                },
+                {
+                    "id": "914070370343075840",
+                    "name": "Голубь ебанный",
+                    "permissions": "1071698660929",
+                    "position": 7,
+                    "color": 2123412,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                }
+            ],
+            "default_message_notifications": 1,
+            "mfa_level": 0,
+            "explicit_content_filter": 0,
+            "max_presences": null,
+            "max_members": 250000,
+            "max_video_channel_users": 25,
+            "vanity_url_code": null,
+            "premium_tier": 0,
+            "premium_subscription_count": 0,
+            "system_channel_flags": 0,
+            "preferred_locale": "en-US",
+            "rules_channel_id": null,
+            "public_updates_channel_id": null,
+            "hub_type": null,
+            "premium_progress_bar_enabled": false,
+            "nsfw": false,
+            "nsfw_level": 0
+        },
+        "url": "https://cdn.discordapp.com/icons/814937086150967326/9ca06a9fcb4d64d87980085eb161856d.png"
+    },
+    {
+        "guild": {
+            "id": "814937086150967326",
+            "name": "Винишко",
+            "icon": "9ca06a9fcb4d64d87980085eb161856d",
+            "description": null,
+            "splash": null,
+            "discovery_splash": null,
+            "features": [],
+            "emojis": [
+                {
+                    "name": "Johnny_mmmm",
+                    "roles": [],
+                    "id": "894175545154224169",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "s_dicks",
+                    "roles": [],
+                    "id": "894175586770100224",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartboobs",
+                    "roles": [],
+                    "id": "894175611629760612",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartdick",
+                    "roles": [],
+                    "id": "894175627429707796",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_horny",
+                    "roles": [],
+                    "id": "894175653514059786",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "w_homiekiss",
+                    "roles": [],
+                    "id": "894175689450876960",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "z_PORNHUB",
+                    "roles": [],
+                    "id": "894175834024337408",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "q_kawaiipepe",
+                    "roles": [],
+                    "id": "894175892312584234",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_SIMP",
+                    "roles": [],
+                    "id": "894175970020450335",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_offline",
+                    "roles": [],
+                    "id": "897864231846838304",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_idle",
+                    "roles": [],
+                    "id": "897864232287236126",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_online",
+                    "roles": [],
+                    "id": "897864232320774205",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_busy",
+                    "roles": [],
+                    "id": "897864232413069372",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepeLove",
+                    "roles": [],
+                    "id": "898258149939744839",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepewow",
+                    "roles": [],
+                    "id": "898258150237536318",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "monkaS",
+                    "roles": [],
+                    "id": "898258150241759282",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cross",
+                    "roles": [],
+                    "id": "898258150287876106",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "PepeHappy",
+                    "roles": [],
+                    "id": "898258150296256583",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_high",
+                    "roles": [],
+                    "id": "898258150380163132",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cringe",
+                    "roles": [],
+                    "id": "898258150388531208",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": true,
+                    "available": true
+                }
+            ],
+            "stickers": [],
+            "banner": null,
+            "owner_id": "434577482440507402",
+            "application_id": null,
+            "region": "russia",
+            "afk_channel_id": null,
+            "afk_timeout": 300,
+            "system_channel_id": "814937086632525875",
+            "widget_enabled": true,
+            "widget_channel_id": "814937086632525879",
+            "verification_level": 0,
+            "roles": [
+                {
+                    "id": "814937086150967326",
+                    "name": "@everyone",
+                    "permissions": "1071698660929",
+                    "position": 0,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937185269841981",
+                    "name": "Пидарас-педофил",
+                    "permissions": "8589410303",
+                    "position": 13,
+                    "color": 7419530,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937472718995458",
+                    "name": "Альберт",
+                    "permissions": "6546771521",
+                    "position": 10,
+                    "color": 5254661,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276302041874473",
+                    "name": "Художник",
+                    "permissions": "6546771521",
+                    "position": 11,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276466988122162",
+                    "name": "Маленький пидорас",
+                    "permissions": "6546771529",
+                    "position": 14,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815277377680310364",
+                    "name": "Белый кучерявый крыс",
+                    "permissions": "8589410303",
+                    "position": 12,
+                    "color": 9936031,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "816049094518112266",
+                    "name": "Страшная озабоченная обезьяна",
+                    "permissions": "6546771521",
+                    "position": 15,
+                    "color": 10038562,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840676850292490250",
+                    "name": "Кадырова ван лов",
+                    "permissions": "6546771529",
+                    "position": 9,
+                    "color": 15007999,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677120577241118",
+                    "name": "нова роль",
+                    "permissions": "6546771521",
+                    "position": 6,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677774095286343",
+                    "name": "Hydra",
+                    "permissions": "37088600",
+                    "position": 5,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "547905866255433758"
+                    }
+                },
+                {
+                    "id": "867098815042814032",
+                    "name": "VK Music Bot",
+                    "permissions": "8",
+                    "position": 4,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "721772274830540833"
+                    }
+                },
+                {
+                    "id": "893566234426224641",
+                    "name": "Щапин",
+                    "permissions": "1090921168895",
+                    "position": 3,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "903301810490585131",
+                    "name": "Щапин",
+                    "permissions": "8",
+                    "position": 2,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "893515190778363945"
+                    }
+                },
+                {
+                    "id": "906298018142236742",
+                    "name": "КАЙ",
+                    "permissions": "1071698660937",
+                    "position": 8,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "913668433550389350",
+                    "name": "Denchik Bot",
+                    "permissions": "8",
+                    "position": 1,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "913667575282552873"
+                    }
+                },
+                {
+                    "id": "914070370343075840",
+                    "name": "Голубь ебанный",
+                    "permissions": "1071698660929",
+                    "position": 7,
+                    "color": 2123412,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                }
+            ],
+            "default_message_notifications": 1,
+            "mfa_level": 0,
+            "explicit_content_filter": 0,
+            "max_presences": null,
+            "max_members": 250000,
+            "max_video_channel_users": 25,
+            "vanity_url_code": null,
+            "premium_tier": 0,
+            "premium_subscription_count": 0,
+            "system_channel_flags": 0,
+            "preferred_locale": "en-US",
+            "rules_channel_id": null,
+            "public_updates_channel_id": null,
+            "hub_type": null,
+            "premium_progress_bar_enabled": false,
+            "nsfw": false,
+            "nsfw_level": 0
+        },
+        "url": "https://cdn.discordapp.com/icons/814937086150967326/9ca06a9fcb4d64d87980085eb161856d.png"
+    },
+    {
+        "guild": {
+            "id": "814937086150967326",
+            "name": "Винишко",
+            "icon": "9ca06a9fcb4d64d87980085eb161856d",
+            "description": null,
+            "splash": null,
+            "discovery_splash": null,
+            "features": [],
+            "emojis": [
+                {
+                    "name": "Johnny_mmmm",
+                    "roles": [],
+                    "id": "894175545154224169",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "s_dicks",
+                    "roles": [],
+                    "id": "894175586770100224",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartboobs",
+                    "roles": [],
+                    "id": "894175611629760612",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartdick",
+                    "roles": [],
+                    "id": "894175627429707796",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_horny",
+                    "roles": [],
+                    "id": "894175653514059786",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "w_homiekiss",
+                    "roles": [],
+                    "id": "894175689450876960",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "z_PORNHUB",
+                    "roles": [],
+                    "id": "894175834024337408",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "q_kawaiipepe",
+                    "roles": [],
+                    "id": "894175892312584234",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_SIMP",
+                    "roles": [],
+                    "id": "894175970020450335",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_offline",
+                    "roles": [],
+                    "id": "897864231846838304",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_idle",
+                    "roles": [],
+                    "id": "897864232287236126",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_online",
+                    "roles": [],
+                    "id": "897864232320774205",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_busy",
+                    "roles": [],
+                    "id": "897864232413069372",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepeLove",
+                    "roles": [],
+                    "id": "898258149939744839",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepewow",
+                    "roles": [],
+                    "id": "898258150237536318",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "monkaS",
+                    "roles": [],
+                    "id": "898258150241759282",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cross",
+                    "roles": [],
+                    "id": "898258150287876106",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "PepeHappy",
+                    "roles": [],
+                    "id": "898258150296256583",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_high",
+                    "roles": [],
+                    "id": "898258150380163132",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cringe",
+                    "roles": [],
+                    "id": "898258150388531208",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": true,
+                    "available": true
+                }
+            ],
+            "stickers": [],
+            "banner": null,
+            "owner_id": "434577482440507402",
+            "application_id": null,
+            "region": "russia",
+            "afk_channel_id": null,
+            "afk_timeout": 300,
+            "system_channel_id": "814937086632525875",
+            "widget_enabled": true,
+            "widget_channel_id": "814937086632525879",
+            "verification_level": 0,
+            "roles": [
+                {
+                    "id": "814937086150967326",
+                    "name": "@everyone",
+                    "permissions": "1071698660929",
+                    "position": 0,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937185269841981",
+                    "name": "Пидарас-педофил",
+                    "permissions": "8589410303",
+                    "position": 13,
+                    "color": 7419530,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937472718995458",
+                    "name": "Альберт",
+                    "permissions": "6546771521",
+                    "position": 10,
+                    "color": 5254661,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276302041874473",
+                    "name": "Художник",
+                    "permissions": "6546771521",
+                    "position": 11,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276466988122162",
+                    "name": "Маленький пидорас",
+                    "permissions": "6546771529",
+                    "position": 14,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815277377680310364",
+                    "name": "Белый кучерявый крыс",
+                    "permissions": "8589410303",
+                    "position": 12,
+                    "color": 9936031,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "816049094518112266",
+                    "name": "Страшная озабоченная обезьяна",
+                    "permissions": "6546771521",
+                    "position": 15,
+                    "color": 10038562,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840676850292490250",
+                    "name": "Кадырова ван лов",
+                    "permissions": "6546771529",
+                    "position": 9,
+                    "color": 15007999,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677120577241118",
+                    "name": "нова роль",
+                    "permissions": "6546771521",
+                    "position": 6,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677774095286343",
+                    "name": "Hydra",
+                    "permissions": "37088600",
+                    "position": 5,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "547905866255433758"
+                    }
+                },
+                {
+                    "id": "867098815042814032",
+                    "name": "VK Music Bot",
+                    "permissions": "8",
+                    "position": 4,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "721772274830540833"
+                    }
+                },
+                {
+                    "id": "893566234426224641",
+                    "name": "Щапин",
+                    "permissions": "1090921168895",
+                    "position": 3,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "903301810490585131",
+                    "name": "Щапин",
+                    "permissions": "8",
+                    "position": 2,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "893515190778363945"
+                    }
+                },
+                {
+                    "id": "906298018142236742",
+                    "name": "КАЙ",
+                    "permissions": "1071698660937",
+                    "position": 8,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "913668433550389350",
+                    "name": "Denchik Bot",
+                    "permissions": "8",
+                    "position": 1,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "913667575282552873"
+                    }
+                },
+                {
+                    "id": "914070370343075840",
+                    "name": "Голубь ебанный",
+                    "permissions": "1071698660929",
+                    "position": 7,
+                    "color": 2123412,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                }
+            ],
+            "default_message_notifications": 1,
+            "mfa_level": 0,
+            "explicit_content_filter": 0,
+            "max_presences": null,
+            "max_members": 250000,
+            "max_video_channel_users": 25,
+            "vanity_url_code": null,
+            "premium_tier": 0,
+            "premium_subscription_count": 0,
+            "system_channel_flags": 0,
+            "preferred_locale": "en-US",
+            "rules_channel_id": null,
+            "public_updates_channel_id": null,
+            "hub_type": null,
+            "premium_progress_bar_enabled": false,
+            "nsfw": false,
+            "nsfw_level": 0
+        },
+        "url": "https://cdn.discordapp.com/icons/814937086150967326/9ca06a9fcb4d64d87980085eb161856d.png"
+    },
+    {
+        "guild": {
+            "id": "814937086150967326",
+            "name": "Винишко",
+            "icon": "9ca06a9fcb4d64d87980085eb161856d",
+            "description": null,
+            "splash": null,
+            "discovery_splash": null,
+            "features": [],
+            "emojis": [
+                {
+                    "name": "Johnny_mmmm",
+                    "roles": [],
+                    "id": "894175545154224169",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "s_dicks",
+                    "roles": [],
+                    "id": "894175586770100224",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartboobs",
+                    "roles": [],
+                    "id": "894175611629760612",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_iheartdick",
+                    "roles": [],
+                    "id": "894175627429707796",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_horny",
+                    "roles": [],
+                    "id": "894175653514059786",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "w_homiekiss",
+                    "roles": [],
+                    "id": "894175689450876960",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "z_PORNHUB",
+                    "roles": [],
+                    "id": "894175834024337408",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "q_kawaiipepe",
+                    "roles": [],
+                    "id": "894175892312584234",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "t_SIMP",
+                    "roles": [],
+                    "id": "894175970020450335",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_offline",
+                    "roles": [],
+                    "id": "897864231846838304",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_idle",
+                    "roles": [],
+                    "id": "897864232287236126",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_online",
+                    "roles": [],
+                    "id": "897864232320774205",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "status_busy",
+                    "roles": [],
+                    "id": "897864232413069372",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepeLove",
+                    "roles": [],
+                    "id": "898258149939744839",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepewow",
+                    "roles": [],
+                    "id": "898258150237536318",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "monkaS",
+                    "roles": [],
+                    "id": "898258150241759282",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cross",
+                    "roles": [],
+                    "id": "898258150287876106",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "PepeHappy",
+                    "roles": [],
+                    "id": "898258150296256583",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_high",
+                    "roles": [],
+                    "id": "898258150380163132",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": false,
+                    "available": true
+                },
+                {
+                    "name": "pepe_cringe",
+                    "roles": [],
+                    "id": "898258150388531208",
+                    "require_colons": true,
+                    "managed": false,
+                    "animated": true,
+                    "available": true
+                }
+            ],
+            "stickers": [],
+            "banner": null,
+            "owner_id": "434577482440507402",
+            "application_id": null,
+            "region": "russia",
+            "afk_channel_id": null,
+            "afk_timeout": 300,
+            "system_channel_id": "814937086632525875",
+            "widget_enabled": true,
+            "widget_channel_id": "814937086632525879",
+            "verification_level": 0,
+            "roles": [
+                {
+                    "id": "814937086150967326",
+                    "name": "@everyone",
+                    "permissions": "1071698660929",
+                    "position": 0,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937185269841981",
+                    "name": "Пидарас-педофил",
+                    "permissions": "8589410303",
+                    "position": 13,
+                    "color": 7419530,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "814937472718995458",
+                    "name": "Альберт",
+                    "permissions": "6546771521",
+                    "position": 10,
+                    "color": 5254661,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276302041874473",
+                    "name": "Художник",
+                    "permissions": "6546771521",
+                    "position": 11,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815276466988122162",
+                    "name": "Маленький пидорас",
+                    "permissions": "6546771529",
+                    "position": 14,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "815277377680310364",
+                    "name": "Белый кучерявый крыс",
+                    "permissions": "8589410303",
+                    "position": 12,
+                    "color": 9936031,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "816049094518112266",
+                    "name": "Страшная озабоченная обезьяна",
+                    "permissions": "6546771521",
+                    "position": 15,
+                    "color": 10038562,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840676850292490250",
+                    "name": "Кадырова ван лов",
+                    "permissions": "6546771529",
+                    "position": 9,
+                    "color": 15007999,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677120577241118",
+                    "name": "нова роль",
+                    "permissions": "6546771521",
+                    "position": 6,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": false,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "840677774095286343",
+                    "name": "Hydra",
+                    "permissions": "37088600",
+                    "position": 5,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "547905866255433758"
+                    }
+                },
+                {
+                    "id": "867098815042814032",
+                    "name": "VK Music Bot",
+                    "permissions": "8",
+                    "position": 4,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "721772274830540833"
+                    }
+                },
+                {
+                    "id": "893566234426224641",
+                    "name": "Щапин",
+                    "permissions": "1090921168895",
+                    "position": 3,
+                    "color": 3447003,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "903301810490585131",
+                    "name": "Щапин",
+                    "permissions": "8",
+                    "position": 2,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "893515190778363945"
+                    }
+                },
+                {
+                    "id": "906298018142236742",
+                    "name": "КАЙ",
+                    "permissions": "1071698660937",
+                    "position": 8,
+                    "color": 15844367,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                },
+                {
+                    "id": "913668433550389350",
+                    "name": "Denchik Bot",
+                    "permissions": "8",
+                    "position": 1,
+                    "color": 0,
+                    "hoist": false,
+                    "managed": true,
+                    "mentionable": false,
+                    "icon": null,
+                    "unicode_emoji": null,
+                    "tags": {
+                        "bot_id": "913667575282552873"
+                    }
+                },
+                {
+                    "id": "914070370343075840",
+                    "name": "Голубь ебанный",
+                    "permissions": "1071698660929",
+                    "position": 7,
+                    "color": 2123412,
+                    "hoist": true,
+                    "managed": false,
+                    "mentionable": true,
+                    "icon": null,
+                    "unicode_emoji": null
+                }
+            ],
+            "default_message_notifications": 1,
+            "mfa_level": 0,
+            "explicit_content_filter": 0,
+            "max_presences": null,
+            "max_members": 250000,
+            "max_video_channel_users": 25,
+            "vanity_url_code": null,
+            "premium_tier": 0,
+            "premium_subscription_count": 0,
+            "system_channel_flags": 0,
+            "preferred_locale": "en-US",
+            "rules_channel_id": null,
+            "public_updates_channel_id": null,
+            "hub_type": null,
+            "premium_progress_bar_enabled": false,
+            "nsfw": false,
+            "nsfw_level": 0
+        },
+        "url": "https://cdn.discordapp.com/icons/814937086150967326/9ca06a9fcb4d64d87980085eb161856d.png"
+    }
+]

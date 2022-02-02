@@ -1,0 +1,26 @@
+{% extends 'base.html' %} 
+
+
+{% block title %}
+Список гильдий 
+{% endblock %}
+
+
+{% block body %}
+<body style="background-color: rgb(41, 41, 41); overflow-x: hidden; overflow-y: hidden;">
+    <div id="guild_f">
+        <div id="c">
+            <div style="background-color: rgb(31, 31, 31); height: 100vh; width: 5%; position: absolute; top: 0; left: 0;">
+            {% for guilds in content %}
+                <div style="margin-top: 10%; position: relative;">
+                    <a href="/guild/{{ guilds['guild']['id'] }}" style="position: relative; margin-left: 12.5%;">
+                        <img src="{{ guilds['icon'] }}" id="ig">
+                    </a>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+
+    </div>
+</body>
+{% endblock %}

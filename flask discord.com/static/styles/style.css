@@ -1,0 +1,143 @@
+#bot{
+    margin: auto; 
+    display:block; 
+    position: relative; 
+    width: 50%; 
+    height: 10%; 
+    background-color: rgb(66, 66, 66); 
+    color: rgb(255, 255, 255); 
+    border: none; 
+}
+
+#it1{
+    margin: auto; 
+    display:block; 
+    position: relative;
+    width: 90%; 
+    height: 10%;
+    text-align: center;
+}
+
+#d1{
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    position: absolute;
+    height: 60%;
+    width: 40%; 
+    border-radius: 10%;
+    margin-top: 5%; 
+    padding-top: 5%;
+    background-color: rgba(44, 44, 44, 0.527);
+}
+
+#guild_flex{
+    position: relative;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+#c{
+    display: contents;
+    padding: 0.5%;
+    background-color: rgb(39, 39, 39);
+
+}
+
+#ig{
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;
+
+}
+
+#info_guild{
+    position: absolute;
+    display: block;
+    top: 0;
+    right: -200%;
+    width: 30%;
+    height: 100%;
+    background-color: rgb(31, 31, 31);
+    color: rgb(105, 105, 105);
+    border-left: 1px rgb(99, 99, 99) solid;
+    overflow-x:auto;
+}
+
+
+#info_guild::-webkit-scrollbar{
+    width: 7px;
+    background-color: #545468;
+  }
+
+#btn1{
+    position: absolute;
+    top: 45%;
+    right: 0.5%;
+    width: 1.5%;
+    height: 10%;
+    background-color: white;
+    z-index: 1;
+    border-top-left-radius: 30%;
+    border-bottom-left-radius: 30%;
+    text-align: center;
+    border: none
+}
+.chn{
+    position: absolute;
+    z-index: 2;
+    top: 0px;
+    left: 0px;
+    margin-left: 5%;
+    height: 100vh;
+    width: 10%;
+    background-color: rgb(26, 26, 26);
+    color: rgb(105, 105, 105);
+    border-right: 1px rgb(99, 99, 99) solid;
+    border-left: 1px rgb(99, 99, 99) solid;
+    font-size: 12px;
+    
+
+}
+
+li, ul{
+    list-style-type: none;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(105, 105, 105);
+    width: 100%;
+    margin-left: 0px;
+    height: 5%;
+    position: relative;
+    margin-left: 0px;
+    text-align: center;
+    margin-bottom: 2px;
+    border-top: 1px rgb(26, 26, 26) solid;
+    border-bottom: 1px rgb(26, 26, 26) solid;
+    padding-bottom: 5px;
+}
+
+.list:hover{
+    color: rgb(99, 99, 99);
+    border-top: 1px rgb(99, 99, 99) solid;
+    border-bottom: 1px rgb(99, 99, 99) solid;
+    cursor: pointer;
+
+}
+
+a{
+    text-decoration: none;
+    color: none;
+}
+
+
+body{
+    font-size: 1.2em;
+    font-family: 'Encode Sans', sans-serif;
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@900&display=swap');
