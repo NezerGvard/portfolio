@@ -1,0 +1,34 @@
+<MyGrid>
+
+    name:name
+    uuid:UUid
+    GridLayout:
+        cols: 1
+        size: root.width, root.height
+
+        GridLayout:
+            cols: 2
+
+            Label:
+                text: 'Name'
+
+            TextInput:
+                id: name
+                multiline: False
+
+
+            Label:
+                text: 'UUid'
+
+            TextInput:
+                id: UUid
+                multiline: False
+
+        Button:
+            text:'Load'
+            background_color: "#0077ff"
+            font_size: 24
+            border_radius: "20%"
+            on_press: root.load()
+        
+

@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <div class="z">
+        <ul></ul>
+        </div>
+        <script src="./node_modules/jquery/dist/jquery.min.js"></script>
+        <script>
+            let token = 'token'
+function user(func, fun) {
+    $.ajax({
+    url: `https://api.vk.com/method/friends.search?count=100&fields=photo_100&access_token=${token}&v=5.52`,
+    method: 'GET',
+    dataType: 'JSONP',
+    success: func
+})
+}
+
+function f1(){
+    user(function(data){
+        f2(data.response)
+    })
+}
+f1()
+
+function f2(friends){
+    let html = ""
+    console.log(friends.items[0]);
+for(let i=0; i<friends.items.length; i++){
+    console.log(friends.items[i].id)
+    let dryh = friends.items[i]
+    let dryg = friends
+function z1(fun){   
+$.ajax({
+    url: `https://api.vk.com/method/status.get?user_id=${friends.items[i].id}&access_token=${token}&v=5.52`,
+    method: 'GET',
+    dataType: 'JSONP',
+    success: fun
+})
+}
+
+
+
+function z2(){
+    z1(function(dataf){
+        z3(dataf.response.text, dryg)
+    })
+}
+
+z2()
+
+function z3(status, friends){
+   console.log(status, friends.items[i]);
+
+   html += `<li>
+        <a href="https://vk.com/id${dryh.id}">
+            <div>
+            <img src="${friends.items[i].photo_100}">
+            <p>${friends.items[i].first_name}</p><p>${friends.items[i].last_name}</p><br>
+    
+            </div>
+            </a>
+            <h4 id="z44">${status}</h4>
+        </li>`
+    f4(html)    
+
+}
+
+}
+    function f4(z){
+        $('ul').html(z)
+    }
+}
+        </script>
+    </body>
+</html>

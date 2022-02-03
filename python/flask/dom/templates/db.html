@@ -1,0 +1,23 @@
+{% extends 'base.html' %} 
+
+
+{% block title %}
+Все о пользователях 
+{% endblock %}
+
+
+{% block body %}
+<div class="container-xxl">
+
+    {% for member in user %}
+    <div class="alert bg-dark text-white">
+        <h2>{{ member.name }}</h2>
+        <p>{{ member.uid}}</p>
+        <h6>{{ member.msg }}</h6>
+        <img src="{{ member.avatar_url }}" class="img-fluid"><br><br>
+        <a class="btn bg-secondary  text-white"  href="{{member.id}}">Подробнее</a>
+    </div>
+    {% endfor %}
+    
+</div>    
+{% endblock %}

@@ -1,0 +1,70 @@
+body { /*(тело дома html)устанавливает цвет и размер фона: кораловый цвет и на 100% экрана*/
+    background: coral;
+    height: 100%;
+}
+.wrapper { /*(элементы с классом wrapper)установка размеров, отступа, цвета и расположения
+цвета в блоке с классов wrapper*/
+    width: 800px;
+    margin: 30px auto;
+    color: #fff;
+    text-align: center;
+}
+h1,h2,h3 {/*(заголовки 1, 2 и 3 порядка)устанавливает размера, стиля, цвета и расположения текста
+в заголовках 1, 2 и 3 порядка*/
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 2.6em;
+    text-transform: uppercase;
+}
+    #second,#tens,.dots {/*(элементы с id second,tens,dots)
+    установка размера теста и устанавливает насыщенность текта*/
+        font-size: 2em;
+        font-weight: bold;
+    }
+    button { /*(кнопки)устанавливает радиус для взаимодействия с кнопками, цвет фотона,
+    цвет надписи, радиус фона, расположение цвета, активая курсора, размер текста,
+    значения поля вокруг содержимого эллемента, высоту, отступ от края блока, танавливающее цвет,
+    стиль и толщину внешней границы на всех четырех сторонах элемента,
+    отступ от блока с верху*/
+        border-radius: 5px;
+        background: coral;
+        color: #fff;
+        border: solid 1px #fff;
+        text-decoration: none;
+        cursor: pointer;
+        font-size: 1.2em;
+        padding: 18px 10px;
+        width: 150px;
+        margin: 10px;
+        outline: none;
+        margin-top: 20px;
+    }
+button:hover{/*(активированная кнопка) устанавливает анимацию,
+цвет кнопки, цвет фона а также цвет надписи в самой кнопки*/
+    transition: all 0.5s ease-in-out;
+    background: #fff;
+    border: solid 1px #fff;
+    color: coral;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

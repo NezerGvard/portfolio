@@ -1,0 +1,5 @@
+host = "127.0.0.1"
+password = "192939"
+port = "5433"
+user = "postgres"
+db_name = "postgres_node"

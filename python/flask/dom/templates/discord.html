@@ -1,0 +1,41 @@
+{% extends 'base.html' %} 
+
+
+{% block title %}
+Список дискорд гильдий 
+{% endblock %}
+
+
+{% block body %}
+<div class="container-xxl">
+
+    {% for guild in server %}
+    <div class="alert bg-dark text-white">
+        <div style="padding: 20px; background-color: rgba(0, 0, 0, 0.562); display: flex; border: rgba(255, 255, 255, 0.336) 2px solid;">
+            <img src="{{ guild.icon_url }}" style="border-radius: 20%; width: 100px; height: 100px; border: rgba(255, 255, 255, 0.336) 1px solid; margin-right: 20px;">
+            <h1>{{ guild.name }}</h1>
+        </div>
+        <ul  style="list-style: none; background-color: rgba(0, 0, 0, 0.562); margin-top: 20px; padding-top: 10px; padding-bottom: 10px; height: 10%; border: rgba(255, 255, 255, 0.336) 1px solid;">
+        {% for channels in guild.text_channels %}
+            <li>{{ channels.name }}</li>
+        {% endfor %}
+        </ul>
+        <div style="display: flex;">
+            <ul  style="list-style: none; background-color: rgba(0, 0, 0, 0.562); padding-bottom: 20px; border: rgba(255, 255, 255, 0.336) 1px solid;">
+                {% for count in guild.members %}
+                <li><img src="{{ count.avatar_url }}" style="border-radius: 20%; width: 50px; height: 50px; margin-right: 20px; margin-top: 20px; height: 20%;">{{ count.name }}</li>
+                {% endfor %}
+            </ul>
+            <ul  style="list-style: none; background-color: rgba(0, 0, 0, 0.562); margin-left: 200px; padding-right: 20%; border: rgba(255, 255, 255, 0.336) 1px solid;">
+                {% for roles in guild.roles %}
+                    <li>{{ roles.name }}</li>
+                {% endfor %}    
+            </ul>    
+        </div>
+        <br><br>
+        <a class="btn bg-secondary  text-white"  href="{{guild.id}}">Подробнее</a>
+    </div>
+    {% endfor %}
+    
+</div>    
+{% endblock %}

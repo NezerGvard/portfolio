@@ -1,0 +1,92 @@
+<Button>
+    #RGB-A
+    background_color: rgba(16/0.95, 67/0.95, 89/0.95, 255)
+    pos_hint: { 'center_x' : 0.5}
+    size_hint: 0.3, 0.1
+
+    font_size: 24
+
+<TextInput>
+    multiline: False
+    size_hint: 0.5, 0.5
+    font_size: 14
+    
+
+<MyGrid>
+    canvas.before:
+        Color:
+            rgba: (54/255,54/255,54/255,255)
+        Rectangle:
+            pos: self.pos
+            size: self.size
+           
+    name:name
+    uuid:uuid
+
+
+    BoxLayout:
+        orientation: 'vertical'
+        size: root.width, root.height
+        size_hint: None, None
+        padding: 10
+        spacing: 10
+
+        
+        GridLayout:
+            cols: 2
+            pos_hint: { 'x' : 0.15, 'y':0}
+            size_hint: 0.7, 0.1
+
+            Label:
+                size_hint: 0.05, 0.5
+                text: 'Name'
+                id: l_name
+
+            TextInput:
+                id: name
+                
+            
+            Label:
+                size_hint: 0.05, 0.5
+                text: 'UUid'
+                id: l_uuid
+                
+            TextInput:
+                id: uuid
+                
+
+        BoxLayout:
+            orientation: 'vertical'
+            spacing: "20"
+
+            Button:
+                text:'Get UUid'
+                on_press: root.Get_UUid()
+
+            Button:
+                text:'Get nickname history '
+                on_press: root.history()
+
+            Button:
+                text:'Get Profile'
+                on_press: root.profils()
+
+            Button:
+                text:'Visiblity skin'
+                on_press: root.skin()
+
+            TextInput:
+                size_hint: 0.8, 0.1
+                pos_hint: { 'x' : 0.1, 'y':0}
+                id: output_mojang
+                opacity: root.opacity_o
+                multiline: False
+
+            Image:
+                id: img
+                color: rgba(54,54,54,255)
+                source: ""
+                
+            
+        
+

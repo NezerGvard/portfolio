@@ -1,0 +1,52 @@
+<html>
+<head>
+    <style type = ”text/css”>
+        INPUT, SELECT {font-size: 14pt}
+    </style>
+    <script type = "text/JavaScript">
+        function очистить () {
+            document.forms[0].a.value = ""
+            document.forms[0].b.value = ""
+            document.forms[0].h.value = ""
+            длина_списка=document.forms[0].tab_list.length
+            for (i=0; i<=длина_списка; i++)
+                document.forms[0].tab_list.options[0] = null
+        }
+        function show_tab () {
+            a=parseInt(document.forms[0].a.value)
+            b=parseInt(document.forms[0].b.value)
+            h=parseFloat(document.forms[0].h.value)
+            i=0
+            for (x=a;x<=b;x=x+h) {
+                y=5 * Math.pow (x, 2) + 7 * x
+                t="для x = " + Math.round (x*10) / 10 + " y = " +
+                    Math.round (y*10) / 10
+                document.forms[0].tab_list.options[i]= new Option(t)
+                i ++
+            }
+        }
+    </script>
+</head>
+<body style="font-size: 14pt" >
+<H1 style = ”text-align: center”>
+    Пример 2. Табулирование функции y=5x<sup>2</sup>+7x
+</H1>
+<form>
+    <div style = ”text-align: center”>
+        <P>Введите значение a левого конца отрезка
+            табулирования
+            <input name="a" type="text" size="3" value="7" > </P>
+        <P>Введите значение b правого конца отрезка
+            табулирования
+            8 / 1657
+            <input name="b" type="text" size="3" value="9"> </P>
+        <P>Введите значение h шага табулирования
+            <input name="h" type="text" size="3" value="0.2"> </P>
+        <P> <input type="button" value="Протабулировать"
+                   onClick="show_tab ()">
+            <input type="button" value="Очистить"
+                   onClick="очистить ()"> </P>
+        <select name='tab_list' size=3 > </select>
+    </div>
+</form>
+</body>
